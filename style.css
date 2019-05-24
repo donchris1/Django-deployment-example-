@@ -1,0 +1,11 @@
+h1 {
+   text-align : center;
+   color : light green;
+   background-color : gray;
+    border-bottom : 2px solid red;
+}
+
+p {
+color : rgb(130 45 200)
+background-color : rgba(225 200 45 0.2);
+}
