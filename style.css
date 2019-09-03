@@ -9,3 +9,11 @@ p {
 color : rgb(130 45 200)
 background-color : rgba(225 200 45 0.2);
 }
+a{
+  text-decoration: none;
+  color: green;
+}
+a:hover{
+  color: white;
+  background-color: orange;
+}
